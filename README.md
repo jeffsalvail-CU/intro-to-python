@@ -18,6 +18,4 @@ Before coming to the workshop, please complete the following:
      
      The Jupyter Notebook is the main way we will be using python.
      There are other ways I will also show, but this is my favourite.
-  4) Download "python workshop.ipynb" from this Github repository.
-     I'll show you how to use it during the workshop.
-  5) That's it!
+  4) That's it!
