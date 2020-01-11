@@ -19,3 +19,5 @@ Before coming to the workshop, please complete the following:
      The Jupyter Notebook is the main way we will be using Python.
      There are other ways I will also show, but this is my favourite.
   4) That's it!
+
+After the workshop I will post resources here, including the notebook we made.
