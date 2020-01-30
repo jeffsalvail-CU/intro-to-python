@@ -20,4 +20,4 @@ Before coming to the workshop, please complete the following:
      There are other ways I will also show, but this is my favourite.
   4) That's it!
 
-After the workshop I will post resources here, including the notebook we made.
+I have uploaded notebooks from the workshop here. I included a little puzzle at the end of one, I suggest you give it a try!
